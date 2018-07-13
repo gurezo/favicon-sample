@@ -12,14 +12,6 @@ const routes: Routes = [
     path: 'page2',
     component: Page2Component
   }
-  // {
-  //   path: '',
-  //   loadChildren: 'app/page1/page1.module#Page1Module'
-  // },
-  // {
-  //   path: 'page2',
-  //   loadChildren: 'app/page2/page2.module#Page2Module'
-  // }
 ];
 
 @NgModule({
