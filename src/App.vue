@@ -4,7 +4,7 @@
     <router-view/>
   </div>
 </template>
-
+<!-- カスタマイズ予定 -->
 <script>
 export default {
   name: 'App'
